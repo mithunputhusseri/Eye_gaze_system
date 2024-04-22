@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-PD-Meter-App/static/css/main.438a2506.css",
+    "main.js": "/React-PD-Meter-App/static/js/main.360c8d40.js",
+    "index.html": "/React-PD-Meter-App/index.html",
+    "main.438a2506.css.map": "/React-PD-Meter-App/static/css/main.438a2506.css.map",
+    "main.360c8d40.js.map": "/React-PD-Meter-App/static/js/main.360c8d40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.438a2506.css",
+    "static/js/main.360c8d40.js"
+  ]
+}
